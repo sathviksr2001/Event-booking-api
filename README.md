@@ -139,6 +139,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✍️ Author
 
-Created by [Your Name](https://github.com/your-username)
+Created by [SATHVIK S.R](https://github.com/sathviksr2001)
 
 Feel free to contribute or suggest improvements!
